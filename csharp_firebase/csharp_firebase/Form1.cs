@@ -22,8 +22,8 @@ namespace csharp_firebase
         }
         IFirebaseConfig fn = new FirebaseConfig()
         {
-            AuthSecret = "f0pd9vvcSFH7DKXiEL2vUlMEQVcahNJmQ81jmaE5",
-            BasePath = "https://cfiregithub-default-rtdb.firebaseio.com/",
+            AuthSecret = "",
+            BasePath = "",
         };
         IFirebaseClient client;
 
